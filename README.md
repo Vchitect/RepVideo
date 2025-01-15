@@ -100,6 +100,7 @@ unzip vae.zip
 ## Inference
 
 ~~~bash
+cd sat
 bash run.sh
 ~~~
 
