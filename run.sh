@@ -1,0 +1,1 @@
+srun -p video-aigc-1 --gres=gpu:1 --quotatype=auto --ntasks-per-node=1 -n1 -N1  --cpus-per-task=12  python ckpt.py

@@ -1,0 +1,16 @@
+args:
+  latent_channels: 16
+  mode: inference
+  load: ckpt/RepVideo
+
+
+  batch_size: 1
+  input_type: txt
+  input_file: asset/prompt.txt
+
+  sampling_num_frames: 13  
+  sampling_fps: 8
+  fp16: True 
+
+  output_dir: outputs/cog/train_ncfg_channel_1_step_orth
+  force_inference: True
