@@ -38,12 +38,6 @@
 
 
 
-
-<!-- **:fire:The technical report is coming soon!**
-
-## 🔥 Update and News
-- [2024.09.14] 🔥 Inference code and [checkpoint](https://huggingface.co/Vchitect/Vchitect-XL-2B) are released.
-
 ## :astonished: Gallery
 
 <table class="center">
