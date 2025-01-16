@@ -47,7 +47,6 @@
 ## :astonished: Gallery
 
 <table class="center">
-
 <tr>
 
   <td><img src="assets/1.gif"> </td>
@@ -74,7 +73,7 @@
   <td><img src="assets/12.gif"> </td>    
 </tr>
 
-</table> -->
+</table> 
 
 
 ## Installation
