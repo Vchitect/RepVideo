@@ -114,6 +114,15 @@ cd sat
 bash run.sh
 ~~~
 
+# BibTeX
+```
+@article{si2025RepVideo,
+  title={RepVideo: Rethinking Cross-Layer Representation for Video Generation},
+  author={Si, Chenyang and Fan, Weichen and Lv, Zhengyao and Huang, Ziqi and Qiao, Yu and Liu, Ziwei},
+  journal={arXiv 2501.08994},
+  year={2025}
+}
+```
 
 ## 🔑 License
 
