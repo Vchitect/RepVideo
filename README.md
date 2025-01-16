@@ -1,19 +1,30 @@
-# RepVideo
+# RepVideo: Rethinking Cross-Layer Representation for Video Generation
 
 <!-- <p align="center" width="100%">
 <img src="ISEKAI_overview.png"  width="80%" height="80%">
 </p> -->
 
-<div>
-<div align="center">
-    <a href='https://vchitect.intern-ai.org.cn/' target='_blank'>Vchitect Team<sup>1</sup></a>&emsp;
-</div>
-<div>
-<div align="center">
-    <sup>1</sup>Shanghai Artificial Intelligence Laboratory&emsp;
-</div>
- 
- 
+<div class="is-size-5 publication-authors">
+              <!-- Paper authors -->
+              <span class="author-block">
+                <a href="https://chenyangsi.top/" target="_blank">Chenyang Si</a><sup>1†</sup>,</span>
+                <span class="author-block">
+                  <a href="https://scholar.google.com/citations?user=ORlELG8AAAAJ" target="_blank">Weichen Fan</a><sup>1†</sup>,</span>
+                  <span class="author-block">
+                    <a href="https://scholar.google.com/citations?user=FkkaUgwAAAAJ&hl=en" target="_blank">Zhengyao Lv</a><sup>2</sup>,</span>
+                  <span class="author-block">
+                  <a href="https://ziqihuangg.github.io/" target="_blank">Ziqi Huang</a><sup>1</sup>,</span>
+                  <span class="author-block">
+                  <a href="https://mmlab.siat.ac.cn/yuqiao" target="_blank">Yu Qiao</a><sup>2</sup>,</span>
+                  <span class="author-block">
+                    <a href="https://liuziwei7.github.io/" target="_blank">Ziwei Liu</a><sup>1✉</sup>
+                  </span>
+                  </div>
+<div class="is-size-5 publication-authors">
+                    <span class="author-block">S-Lab, Nanyang Technological University<sup>1</sup> &nbsp;&nbsp;&nbsp;&nbsp; Shanghai Artificial Intelligence Laboratory <sup>2</sup> </span>
+                    <span class="eql-cntrb"><small><br><sup>†</sup>Equal contribution.&nbsp;&nbsp;&nbsp;&nbsp;<sup>✉</sup>Corresponding Author.</small></span>
+                  </div>
+
 </p>
 <!-- <p align="center">
     👋 Join our <a href="https://github.com/Vchitect/RepVideo/tree/master/assets/channel/lark.jpeg" target="_blank">Lark</a> and <a href="https://discord.gg/aJAbn9sN" target="_blank">Discord</a> 
@@ -39,29 +50,28 @@
 
 <tr>
 
-  <td><img src="assets/samples/sample_0_seed3.gif"> </td>
-  <td><img src="assets/samples/sample_1_seed3.gif"> </td>
-  <td><img src="assets/samples/sample_3_seed2.gif"> </td> 
+  <td><img src="assets/1.gif"> </td>
+  <td><img src="assets/2.gif"> </td>
+  <td><img src="assets/3.gif"> </td> 
 </tr>
 
 
-        
 <tr>
-  <td><img src="assets/samples/sample_4_seed1.gif"> </td>
-  <td><img src="assets/samples/sample_4_seed4.gif"> </td>
-  <td><img src="assets/samples/sample_5_seed4.gif"> </td>     
+  <td><img src="assets/4.gif"> </td>
+  <td><img src="assets/5.gif"> </td>
+  <td><img src="assets/6.gif"> </td>     
 </tr>
 
 <tr>
-  <td><img src="assets/samples/sample_6_seed4.gif"> </td>
-  <td><img src="assets/samples/sample_8_seed0.gif"> </td>
-  <td><img src="assets/samples/sample_8_seed2.gif"> </td>      
+  <td><img src="assets/7.gif"> </td>
+  <td><img src="assets/8.gif"> </td>
+  <td><img src="assets/9.gif"> </td>      
 </tr>
 
 <tr>
-  <td><img src="assets/samples/sample_12_seed1.gif"> </td>
-  <td><img src="assets/samples/sample_13_seed3.gif"> </td>
-  <td><img src="assets/samples/sample_14.gif"> </td>    
+  <td><img src="assets/10.gif"> </td>
+  <td><img src="assets/11.gif"> </td>
+  <td><img src="assets/12.gif"> </td>    
 </tr>
 
 </table> -->
