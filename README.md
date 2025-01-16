@@ -114,7 +114,7 @@ cd sat
 bash run.sh
 ~~~
 
-# BibTeX
+## BibTeX
 ```
 @article{si2025RepVideo,
   title={RepVideo: Rethinking Cross-Layer Representation for Video Generation},
