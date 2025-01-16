@@ -4,7 +4,7 @@
 <img src="ISEKAI_overview.png"  width="80%" height="80%">
 </p> -->
 
-<div class="is-size-5 publication-authors">
+<div class="is-size-5 publication-authors", align="center">
               <!-- Paper authors -->
               <span class="author-block">
                 <a href="https://chenyangsi.top/" target="_blank">Chenyang Si</a><sup>1†</sup>,</span>
@@ -20,12 +20,17 @@
                     <a href="https://liuziwei7.github.io/" target="_blank">Ziwei Liu</a><sup>1✉</sup>
                   </span>
                   </div>
-<div class="is-size-5 publication-authors">
+<div class="is-size-5 publication-authors", align="center">
                     <span class="author-block">S-Lab, Nanyang Technological University<sup>1</sup> &nbsp;&nbsp;&nbsp;&nbsp; Shanghai Artificial Intelligence Laboratory <sup>2</sup> </span>
                     <span class="eql-cntrb"><small><br><sup>†</sup>Equal contribution.&nbsp;&nbsp;&nbsp;&nbsp;<sup>✉</sup>Corresponding Author.</small></span>
                   </div>
 
 </p>
+
+<div align="center">
+                      <a href="https://arxiv.org/pdf/2501.08994">Paper</a> | 
+                      <a href="https://vchitect.github.io/RepVid-Webpage/">Project Page</a>
+</div>
 <!-- <p align="center">
     👋 Join our <a href="https://github.com/Vchitect/RepVideo/tree/master/assets/channel/lark.jpeg" target="_blank">Lark</a> and <a href="https://discord.gg/aJAbn9sN" target="_blank">Discord</a> 
 </p> -->
@@ -35,6 +40,8 @@
 ![](https://img.shields.io/badge/RepVideo-v0.1-darkcyan)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVchitect%2FRepVideo&count_bg=%23BDC4B7&title_bg=%2342C4A8&icon=octopusdeploy.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 [![Generic badge](https://img.shields.io/badge/Checkpoint-red.svg)](https://huggingface.co/Vchitect/RepVideo)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Farxiv.org%2Fpdf%2F2501.08994&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Paper&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVchitect%2FRepVid-Webpage&count_bg=%23BE4C4C&title_bg=%235E5D64&icon=&icon_color=%23E7E7E7&title=Page&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
