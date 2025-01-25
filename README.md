@@ -41,7 +41,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVchitect%2FRepVideo&count_bg=%23BDC4B7&title_bg=%2342C4A8&icon=octopusdeploy.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Farxiv.org%2Fpdf%2F2501.08994&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Paper&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVchitect%2FRepVid-Webpage&count_bg=%23BE4C4C&title_bg=%235E5D64&icon=&icon_color=%23E7E7E7&title=Page&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Generic badge](https://img.shields.io/badge/Checkpoint-red.svg)]([https://huggingface.co/Vchitect/Vchitect-XL-2B](https://huggingface.co/Vchitect/RepVideo))
+
+## 🔥 Update and News
+- [2025.01.25] 🔥 Inference code and [checkpoint](https://huggingface.co/Vchitect/RepVideo) are released.
 
 
 ## :astonished: Gallery
