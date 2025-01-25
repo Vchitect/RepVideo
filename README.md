@@ -110,7 +110,7 @@ unzip vae.zip
 ### 2. Download Our latest Checkpoint
 ```
 git-lfs clone https://huggingface.co/Vchitect/RepVideo/tree/main
-# Then move the ckpt to "ckpt/RepVideo"
+# Then modify the "load" path in "sat/configs/inference.yaml" accordingly.
 ```
 
 ## Inference
